@@ -1,0 +1,16 @@
+{
+  "scripts": {
+    "start": "python app.py"
+  },
+  "models": {
+    "alwaysai/mobilenet_ssd": 4,
+    "alwaysai/human-pose": 7,
+    "alwaysai/fcn_resnet18_cityscapes_512x256": 1,
+    "alwaysai/enet": 1,
+    "alwaysai/gendernet": 7,
+    "alwaysai/agenet": 9,
+    "alwaysai/TRT_ssd_mobilenet_v1_coco_hand_detection_nano": 1,
+    "alwaysai/hand_detection": 5,
+    "alwaysai/res10_300x300_ssd_iter_140000": 7
+  }
+}
